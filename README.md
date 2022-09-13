@@ -15,7 +15,7 @@
 
 **Primeiramente vamos entender o que são Branchs:** Em tradução literal, significa "ramo" como de uma árvore e no mundo da programação tem o mesmo significado: uma Branch é um ramo/versão do seu projeto. Aqui oferecemos mais de uma resolução e cada uma estará em sua própria branch. Teremos o mesmo código feito ao vivo em live, de forma mais simples e didática e outra solução mais complexa.
 
-**Agora vamos entender como visualizar as branchs no Github.** Ao clicar na parte superior esquerda do repositório você pode ver todas as "brachs" do projeto. Em cada novo ramo, é possível ter uma versão diferente do código e, neste caso, teremos 3: 
+**Agora vamos entender como visualizar as branchs no Github.** Ao clicar na parte superior esquerda do repositório você pode ver todas as "brachs" do projeto. Em cada novo ramo, é possível ter uma versão diferente do código e, neste caso, teremos 2: 
 
      - main: contendo as instruções;
      - live-parte1: o código desenvolvido por nossos instrutores ao vivo.
